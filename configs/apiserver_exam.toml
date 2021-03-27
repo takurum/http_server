@@ -1,0 +1,4 @@
+bind_addr = ":8080"
+log_level = "info"
+database_url = "host=localhost dbname=dbname sslmode=disable password=password"
+session_key = "session_key"
